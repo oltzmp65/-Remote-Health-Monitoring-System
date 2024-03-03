@@ -1,0 +1,26 @@
+{
+"name": "fhon-2gojg",
+"version": "1.0.0",
+"description": "The Remote Health Monitoring System employs wearable devices and IoT sensors to track vital signs and health metrics, providing remote healthcare monitoring and early detection of health issues",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/oltzmp65/-Remote-Health-Monitoring-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "oltzmp65",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
